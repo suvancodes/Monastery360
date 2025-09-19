@@ -1,3 +1,5 @@
+'use client'; // <-- add this at the top
+
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Play, MapPin } from "lucide-react"
